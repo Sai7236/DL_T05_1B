@@ -1,0 +1,10 @@
+model,data,acc,macroF1,rec_bacterial_panicle_blight,rec_bacterial_leaf_streak
+"E3 (aug, 15 ep)",clean val,0.828,0.826,0.9,0.965
+"E3 (aug, 15 ep)",shift A (in-family),0.527,0.523,0.56,0.579
+"E3 (aug, 15 ep)",shift B (different types),0.478,0.451,0.38,0.614
+E4 (no aug),clean val,0.895,0.89,0.88,0.93
+E4 (no aug),shift A (in-family),0.541,0.527,0.5,0.386
+E4 (no aug),shift B (different types),0.441,0.429,0.46,0.333
+E7 (field aug),clean val,0.915,0.909,0.92,0.912
+E7 (field aug),shift A (in-family),0.747,0.742,0.78,0.807
+E7 (field aug),shift B (different types),0.641,0.625,0.66,0.684

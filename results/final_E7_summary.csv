@@ -1,0 +1,4 @@
+data,accuracy,macroF1,recall_bacterial_panicle_blight,recall_bacterial_leaf_streak
+test_clean,0.898,0.889,0.882,0.912
+test_shiftA_proxy,0.757,0.742,0.667,0.807
+test_shiftB_proxy,0.638,0.611,0.569,0.737

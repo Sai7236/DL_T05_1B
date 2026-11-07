@@ -1,0 +1,14 @@
+,precision,recall,f1-score,support
+bacterial_leaf_blight,0.811,0.597,0.688,72.0
+bacterial_leaf_streak,0.697,0.807,0.748,57.0
+bacterial_panicle_blight,0.791,0.667,0.723,51.0
+blast,0.825,0.613,0.703,261.0
+brown_spot,0.704,0.772,0.737,145.0
+dead_heart,0.898,0.852,0.874,216.0
+downy_mildew,0.561,0.796,0.658,93.0
+hispa,0.737,0.858,0.793,239.0
+normal,0.766,0.792,0.779,265.0
+tungro,0.728,0.706,0.717,163.0
+accuracy,0.757,0.757,0.757,0.757
+macro avg,0.752,0.746,0.742,1562.0
+weighted avg,0.768,0.757,0.757,1562.0

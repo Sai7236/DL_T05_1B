@@ -1,0 +1,4 @@
+variant,size_MB,latency_median_ms,latency_p95_ms,val_macroF1,recall_bacterial_panicle_blight,recall_bacterial_leaf_streak
+float32,1.66,2.3,2.6,0.8264,0.9,0.965
+dynamic,0.58,8.0,15.8,0.8326,0.94,0.965
+fp16,0.89,2.3,3.7,0.8241,0.9,0.965

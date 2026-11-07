@@ -1,0 +1,4 @@
+model,train_acc,val_acc,val_shiftA_acc,val_shiftB_acc
+E3,0.86,0.828,0.527,0.478
+E4,0.994,0.895,0.541,0.441
+E7,0.95,0.915,0.747,0.641
