@@ -1,0 +1,10 @@
+# Colab already ships most of these; versions are those Colab had in Nov 2026 (not pinned)
+tensorflow>=2.16
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pillow
+opencv-python-headless
+kaggle
